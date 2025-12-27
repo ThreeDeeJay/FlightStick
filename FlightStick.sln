@@ -4,13 +4,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightStick", "FlightStick.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Debug|x64.ActiveCfg = Debug|x64
+		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Debug|x64.Build.0 = Debug|x64
+		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Release|x64.ActiveCfg = Release|x64
+		{E1C4C7F5-14EB-4458-AB0C-B52769ABDD6C}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
